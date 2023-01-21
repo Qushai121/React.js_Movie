@@ -25,5 +25,5 @@ blm responsive
 
 code masih berantakan
 
-oper data antar element kurang 
+oper data antar element kurang paham 
 
